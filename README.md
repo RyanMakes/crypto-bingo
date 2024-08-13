@@ -17,3 +17,6 @@ Explanation and Instruction text:
 Welcome to the conference! Ask people what they are building, and if they use a word in your grid, you get a point - mark it!
 If you get a line of five in a row, you yell out 'CRYPTO BINGO!' and you win!
 "It's not a scam, it's a ..."
+
+
+Proof of concept using https://myfreebingocards.com/bingo-card-generator generated the PDF included in this repo.

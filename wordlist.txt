@@ -108,4 +108,5 @@ Automatic / Programmatic
 Loan / Collateral / Locked
 Bank / Mint
 Play To Earn / Gaming / Gambling
+DeFi / DeSci / DeAI
 
